@@ -13,3 +13,11 @@ edildiği takdirde etkin bir şekilde tedavi edilebilmesi mümkündür. Teşhist
 için, patologlar birden fazla uzmanın görüşünü alma eğilimindedirler. Bu çalışma kapasımda
 kanser öncüsü lezyonların tahmin edilmesi ve sınıflandırılması için Derin Öğrenme tabanlı
 bilgisayar destekli teşhis teknikleri üzerine kapsamlı bir çalışmanın sonucunu sunulmaktadır.
+
+
+Kaynakça:
+
+[1] https://github.com/whhsu2/Pap-Smear-Image
+Classification/blob/master/README.md
+[2] ELSEVİER : Automated classification of Pap smear images to detect cervical
+dysplasia
